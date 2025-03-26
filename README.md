@@ -87,3 +87,8 @@ int main()
 Output:
 
 ![Screenshot 2025-03-26 085414](https://github.com/user-attachments/assets/2842e3d7-bcdb-45d9-bf42-fba2fe18d219)
+
+
+RESULT:-
+
+The program is executed successfully.
